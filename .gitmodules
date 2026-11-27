@@ -2,3 +2,7 @@
 	path = safecare-backend
 	url = https://github.com/johannesmrks/safecare-backend
 	branch = main
+[submodule "safecare-node"]
+	path = safecare-node
+	url = https://github.com/mannerheimo/safecare-node
+	branch = main
