@@ -1,3 +1,4 @@
 [submodule "safecare-backend"]
 	path = safecare-backend
 	url = https://github.com/johannesmrks/safecare-backend
+	branch = main
